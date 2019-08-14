@@ -1,6 +1,6 @@
 # Classifications
 
-Explains the usage of different classification algorithms.
+Explains the usage of some of the classification algorithms.
 
 ## 1. K-Nearest Neighbours
 
